@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    background-color: rgb(99, 208, 245);
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
+section{
+    background-color: white;
+    padding:20px;
+    margin-top: 30px;
+    margin: 30px;
+    font-size: larger;
+}
+ul{
+   padding: 20px;   
+}
+dl{
+    text-decoration: underline;
+    font-size: larger;
+}
